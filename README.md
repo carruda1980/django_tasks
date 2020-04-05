@@ -1,10 +1,10 @@
 # django_tasks
 This repository is about leaning how to use Celery and RabbitMQ
 
-##Installation
+## Installation
 
 1- Installing Celery
-    * pip3 install Celery
+    # pip3 install Celery
 
 2- Installing RabbitMQ
     * apt-get install -y erlang
